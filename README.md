@@ -20,7 +20,7 @@ A marketing agency requires a codebase that adheres to current website accessibi
 #### Screenshots
 Screenshot1:https://atifih.github.io/Homework1--HTML-CSS-Git-Code-Refactor/Screenshot1.png
 Screenshot2:https://atifih.github.io/Homework1--HTML-CSS-Git-Code-Refactor/Screenshot2.png
-Screenshot3: https://atifih.github.io/Homework1--HTML-CSS-Git-Code-Refactor/Screenshot3.png
+Screenshot3:https://atifih.github.io/Homework1--HTML-CSS-Git-Code-Refactor/Screenshot3.png
 
 ### Licence
 MIT License.
