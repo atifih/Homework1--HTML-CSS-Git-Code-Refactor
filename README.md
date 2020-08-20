@@ -10,18 +10,14 @@ The app is composed of 1 web page. The files associated with web page are as fol
    (pictures in images folder)
 ​
 ## User Story
-<p>
 A marketing agency requires a codebase that adheres to current website accessibility standards.Hence, search engine optimizations are completed in order to faciliate assistive technologies to help people with disabilities. This maybe seen as a preventative measure by the company in relation to potential litigation as there is legislation put in place requiring websites to be accessible to disabled people. 
-</p> 
 
 ## Built With. people.
 ​
 * [VScode](https://code.visualstudio.com/) - Code editor.
-* [Terminal] - command line user interface for the bash shell.Used th program that ships with Mac OS "Catalina".
+* [Terminal] - command line user interface for the bash shell.Used the program that ships with Mac OS "Catalina".
 ​
 #### Screenshots
-​
-
 Screenshot1:https://atifih.github.io/Homework1--HTML-CSS-Git-Code-Refactor/Screenshot1.png
 Screenshot2:https://atifih.github.io/Homework1--HTML-CSS-Git-Code-Refactor/Screenshot2.png
 Screenshot3: https://atifih.github.io/Homework1--HTML-CSS-Git-Code-Refactor/Screenshot3.png
